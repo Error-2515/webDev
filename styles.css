@@ -191,6 +191,7 @@ nav a:hover{
     flex-direction: column;
     align-items: center;
     gap: 2rem;
+    
 }
 
 .contact-containers{
@@ -199,6 +200,8 @@ nav a:hover{
     border-radius: 2rem;
     height: 5rem;
     padding: 0.5rem 2rem;
+    background-color: white;
+    
 
     justify-content: space-around;
     gap: 1rem;
@@ -207,6 +210,7 @@ nav a:hover{
     display: flex;
     align-items: center;
     gap: 1rem;
+    
 
 }
 
